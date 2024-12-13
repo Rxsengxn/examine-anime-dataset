@@ -162,4 +162,3 @@ cython_debug/
 #.idea/
 final_animedataset.csv
 final_animedataset.csv.zip
-*.csv
