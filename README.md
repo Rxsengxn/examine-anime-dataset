@@ -30,7 +30,7 @@ The repository consists of Jupyter notebooks that do dataprocessing and generate
 
 We made user specific analysis conducted on 100k entries, where users have given ratings for different anime.
 And by combining those anime genres by score, you can have look into user's preferences form a genre perspective.
-This can be found in jako-main.ipynb "Look into User specific analyse".
+This can be found in [jako-main.ipynb](https://github.com/Rxsengxn/examine-anime-dataset/blob/main/jako-main.ipynb) "Look into User specific analyse".
 We have also tried to capture and explain notable trends and correlations in the data using methods and strategies/approaches learned in this course.
 
 ![](./visualizations/Top-10-Genres-by-Frequency.png)
@@ -64,6 +64,6 @@ Getting the graphics just right was a hassle.
 All .ipynb files in the root directory of this repository were used to analyze, (pre-)process and visualize the data.
 user_analyze.csv file is used in the jako-main.ipynb file for user specific analyzations.
 Most of the more relevant graphs and visualizations are in the folder "visualizations".
-There is also a 2nd HW "C6_report.pdf" and our project poster "C6-poster.pdf" in the root of this repository.
+There is also a 2nd HW "[C6_report.pdf](https://github.com/Rxsengxn/examine-anime-dataset/blob/main/C6_report.pdf)" and our project poster "[C6-poster.pdf](https://github.com/Rxsengxn/examine-anime-dataset/blob/main/C6-poster.pdf)" in the root of this repository.
 
 ---
