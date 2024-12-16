@@ -42,7 +42,8 @@ We have also tried to capture and explain notable trends and correlations in the
 ![](./visualizations/Weighted-User-Ratings-and-Total-Ratings-by-Type-of-Anime.png)
 *With weighted user ratings and total ratings graph we can see overall anime types and their average ratings. Anime ratings are weighted by the amount of users, that have scored it world wide. And the graph also shows frequency of anime types in the dataset.*
 
-![](./visualizations/popularity-rating-loss.png). *In this 3-dimentional graph a rating to popularity correlation is visualised.The color of the datapoint represents popularity ranking. X-axis represents rating loss (the ratio of the rating that have been left unrated) and the y-axis shows the rating score of the data. This would result in distribution and overall average of the ratings.*
+![](./visualizations/popularity-rating-loss.png). 
+*In this 3-dimentional graph a rating to popularity correlation is visualised.The color of the datapoint represents popularity ranking. X-axis represents rating loss (the ratio of the rating that have been left unrated) and the y-axis shows the rating score of the data. This would result in distribution and overall average of the ratings.*
 
 We have also made user specific analysis conducted on 100k entries, where users have given ratings for different anime. And by combining those anime genres by score, you can have look into user's preferences form a genre perspective. This can be found in jako-main.ipynb "Look into User specific analyse". We have tried to capture notable trends and correlations in the data using methods and 
 strategies/approaches learned in this course.
