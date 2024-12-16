@@ -11,6 +11,6 @@ The repository consist of Jupyter notebooks that do dataprocessing and generate 
 We also have made user specific analysis conducted on 100k entries, where users have given ratings for different animes. And by combining those anime genres by score, you can have look into user's preferences form a genre perspective. This can be found in selge.ipynb "Look into User specific analyse". We have also tried to capture noticable trends and correlations in the data ....
 
 ### **Problems/issues encountered:**
-daslkndajsdjn
+Computational power and data storage were significant limiting factors and one of the biggest problems we had to overcome by optimizing the computations.
 
 ### **Project structure:**
